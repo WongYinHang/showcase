@@ -1,3 +1,27 @@
+## Whatsapp Clone
+Made By Wong Yin Hang Marco<br />
+Using React, firebase <br />
+Login / Registration(Sign in with Google) / Messaging / Chat room
+
+
+
+
+## Login Page
+![whatapplogin](https://user-images.githubusercontent.com/44596593/128679866-721a36fe-dbe8-42c4-944e-93a6dd2e3cc8.png)
+
+## Chat Page
+![whatappchatroom](https://user-images.githubusercontent.com/44596593/128679880-c0ad6233-fc47-42a1-8dcf-d4d51a6d313d.png)
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
