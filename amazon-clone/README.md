@@ -10,11 +10,8 @@ Login / Registration / Shopping cart / Payment
 ![amazonhome](https://user-images.githubusercontent.com/44596593/128679003-83fc96ab-b80f-4610-9764-30659eb95fb3.png)
 ## Login Page
 ![amazonlogin](https://user-images.githubusercontent.com/44596593/128679242-b35d8275-6535-445a-8915-f1d03b6b44b2.png)
-
-## Shopping Cart Page
-![amazoncart](https://user-images.githubusercontent.com/44596593/128679248-74494b78-8116-477a-a5ab-6eb223e05c30.png)
-
-## Payment Page![amazonpayment](https://user-images.githubusercontent.com/44596593/128679251-f24b77d7-95ad-4fb8-b30a-0e547948000f.png)
+## Movie Page
+![image](https://user-images.githubusercontent.com/44596593/128680720-98dcdf0c-8cda-45b7-95d2-f31c2baea685.png)
 
 
 
