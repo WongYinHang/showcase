@@ -1,7 +1,7 @@
 ## Netflix Clone
 Made By Wong Yin Hang Marco<br />
 Using React, firebase <br />
-Login / Registration / Shopping cart / Payment
+Login / Registration
 
 
 
